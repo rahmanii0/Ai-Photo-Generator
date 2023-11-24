@@ -1,0 +1,26 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Imagine</title>
+</head>
+<body>
+    <main>
+    <h1>AI Photo Generator</h1>
+
+    <div id="result">
+    Your Imagination will apear here ! 
+    </div>
+    <form action="">
+    <label for="prompt">prompt</label>
+    <label for=""></label>
+    <textarea name="prpmpt" id="" cols="30" rows="10" maxlenght="160"></textarea>
+
+    <button type="submit">Imagine</button>
+
+    </form>
+    </main>
+
+    <script type="module" src="/main.js"></script>
+</body>
+</html>
